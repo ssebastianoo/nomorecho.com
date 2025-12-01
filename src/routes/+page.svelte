@@ -11,5 +11,6 @@
 			target="_blank"
 			href="https://music.apple.com/it/artist/nomorecho/1848701396">~apple_music</a
 		>
+		<a class="hover:underline" href="/demos">~demos</a>
 	</div>
 </div>
