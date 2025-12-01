@@ -12,5 +12,11 @@
 			href="https://music.apple.com/it/artist/nomorecho/1848701396">~apple_music</a
 		>
 		<a class="hover:underline" href="/demos">~demos</a>
+
+		<a class="hover:underline mt-2" target="_blank" href="https://www.instagram.com/nomorechoband"
+			>@instagram</a
+		>
+
+		<a class="hover:underline" target="_blank" href="https://www.tiktok.com/@nomorecho">@tiktok</a>
 	</div>
 </div>
