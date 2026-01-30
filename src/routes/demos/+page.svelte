@@ -60,19 +60,6 @@
 					Your browser does not support the audio element.
 				</audio>
 			</div>
-
-			<div>
-				<a
-					class="hover:underline text-pink-400"
-					href="/songs/you-dont-care-about-us.mp3"
-					download="you-dont-care-about-us.mp3">~you-dont-care-about-us.mp3</a
-				>
-
-				<audio controls class="w-full my-4">
-					<source src={song5} type="audio/ogg; codecs=opus" />
-					Your browser does not support the audio element.
-				</audio>
-			</div>
 		</div>
 	</div>
 </div>
