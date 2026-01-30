@@ -65,9 +65,25 @@
 		</div>
 
 		<div>
+			<p class="mb-1 text-lg">support_us</p>
+			<div class="grid grid-cols-2 text-pink-400">
+				<a class="hover:underline" href="https://www.paypal.com/ncp/payment/MJ94RHMM6LT8Q"
+					>~donation</a
+				>
+
+				<a class="hover:underline" href="https://nomorecho.bandcamp.com/">~bandcamp</a>
+			</div>
+		</div>
+
+		<div>
 			<p class="mb-1 text-lg">shh_!</p>
-			<div class="grid grid-cols-1 text-pink-400">
+			<div class="grid grid-cols-2 text-pink-400">
 				<a class="hover:underline" href="/demos">~👀</a>
+				<a
+					class="hover:underline"
+					target="_blank"
+					href="https://github.com/ssebastianoo/nomorecho.com">~🐙</a
+				>
 			</div>
 		</div>
 	</div>
