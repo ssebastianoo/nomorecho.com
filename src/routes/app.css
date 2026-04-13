@@ -1,8 +1,11 @@
 @import 'tailwindcss';
 
+@theme {
+    --color-pink-arc: #ce79b1;
+}
 
 body {
-    font-family: 'Spline Sans Mono Variable', monospace;
-    background-color: black;
-    color: white;
+    font-family: 'Instrument Serif', serif;
+    background-color: #FFF6E3;
+    color: black;
 }
