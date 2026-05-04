@@ -50,8 +50,15 @@
 			id: "deezer",
 			text: "deezer",
 			url: "https://www.deezer.com/en/album/960022261",
-			offsetX: 0,
-			offsetY: 140
+			offsetX: 10,
+			offsetY: 120
+		},
+		{
+			id: "bandcamp",
+			text: "bandcamp",
+			url: "https://nomorecho.bandcamp.com/album/pink-arc-ce79b1",
+			offsetX: -65,
+			offsetY: 210
 		}
 	] as const;
 
