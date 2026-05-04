@@ -127,7 +127,7 @@
 			text={folder.text}
 			centerOffsetX={folder.offsetX}
 			centerOffsetY={folder.offsetY}
-			onclick={() => window.open(folder.url, '_blank', 'noopener,noreferrer')}
+			onclick={() => (location.href = folder.url)}
 		/>
 	{/each}
 
